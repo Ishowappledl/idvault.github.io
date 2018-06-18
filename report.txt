@@ -1,0 +1,1316 @@
+[ 2018-06-18 18:06:26 ] full archive url = https://ipabox.store/home.html
+[ 2018-06-18 18:06:26 ] archive url = https://ipabox.store/home.html
+[ 2018-06-18 18:06:26 ] website url = ipabox.store/home.html
+[ 2018-06-18 18:06:26 ] no www url = ipabox.store
+[ 2018-06-18 18:06:26 ] domain = ipabox.store
+[ 2018-06-18 18:06:26 ] subdomain = www
+[ 2018-06-18 18:06:26 ] type( demo or live ) = live
+[ 2018-06-18 18:06:26 ] max_level = 5
+[ 2018-06-18 18:06:26 ] main folder = ipabox.store_connormetry_icloud.com_jt2v23mf6jg
+[ 2018-06-18 18:06:26 ] email = connormetry@icloud.com
+[ 2018-06-18 18:06:26 ] scaping_type = all
+[ 2018-06-18 18:06:26 ] file_path_index = home.html
+[ 2018-06-18 18:06:26 ] file_path_without_ext_index = home
+[ 2018-06-18 18:06:26 ] #####################################################################################################
+[ 2018-06-18 18:06:26 ] ###############https://ipabox.store/home.html ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2018-06-18 18:06:26 ] ###############Local URL = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/index.html###############
+[ 2018-06-18 18:06:26 ] ###############Try number = 1###############
+[ 2018-06-18 18:06:26 ] #####################################################################################################
+[ 2018-06-18 18:06:26 ]  Main level =0
+[ 2018-06-18 18:06:26 ] Original encoding = UTF-8
+[ 2018-06-18 18:06:26 ] Final encoding = UTF-8
+[ 2018-06-18 18:06:26 ] Language = N/A
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] /*******		Extract pdf files		**********/
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] /*******		End : Extract pdf files		**********/
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] 
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] /*******		Extract css files		**********/
+[ 2018-06-18 18:06:26 ] /**************************************************************/
+[ 2018-06-18 18:06:26 ] file url = https://ipabox.store/landingpage/css/bootstrap.min.css
+[ 2018-06-18 18:06:26 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/bootstrap.min.css
+[ 2018-06-18 18:06:26 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/bootstrap.min.css --> File Created !!!
+[ 2018-06-18 18:06:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/themify-icons.css
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/themify-icons.css
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] 
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:27 ] /**************************************************************/
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/../fonts/themify.eot?-fvbane
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.eot
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.eot --> File Created !!!
+[ 2018-06-18 18:06:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/../fonts/themify.eot?#iefix-fvbane
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.eot
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/../fonts/themify.woff?-fvbane
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.woff
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.woff --> File Created !!!
+[ 2018-06-18 18:06:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/../fonts/themify.ttf?-fvbane
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.ttf
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:27 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.ttf --> File Created !!!
+[ 2018-06-18 18:06:27 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:27 ] file url = https://ipabox.store/landingpage/css/../fonts/themify.svg?-fvbane#themify
+[ 2018-06-18 18:06:27 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.svg
+[ 2018-06-18 18:06:27 ] scrape_it = 1
+[ 2018-06-18 18:06:28 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/landingpage/css/../fonts/themify.svg --> File Created !!!
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/themify-icons.css --> File Created !!!
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] file url = https://ipabox.store/landingpage/css/owl.carousel.min.css
+[ 2018-06-18 18:06:28 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/owl.carousel.min.css
+[ 2018-06-18 18:06:28 ] scrape_it = 1
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] file url = https://ipabox.store/landingpage/css/owl.video.play.png
+[ 2018-06-18 18:06:28 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/img/owl.video.play.png
+[ 2018-06-18 18:06:28 ] scrape_it = 1
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/owl.carousel.min.css --> File Created !!!
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] file url = https://ipabox.store/landingpage/css/style.css
+[ 2018-06-18 18:06:28 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/style.css
+[ 2018-06-18 18:06:28 ] scrape_it = 1
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/css/style.css --> File Created !!!
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] /*******		End : Extract css files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract xml files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract xml files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract txt files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		End : Extract txt files		**********/
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] 
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] /*******		Extract script files		**********/
+[ 2018-06-18 18:06:28 ] /**************************************************************/
+[ 2018-06-18 18:06:28 ] file url = http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2018-06-18 18:06:28 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2018-06-18 18:06:28 ] scrape_it = 1
+[ 2018-06-18 18:06:28 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js --> File Created !!!
+[ 2018-06-18 18:06:28 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:28 ] file url = https://ipabox.store/landingpage/js/jquery-3.2.1.min.js
+[ 2018-06-18 18:06:28 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/jquery-3.2.1.min.js
+[ 2018-06-18 18:06:28 ] scrape_it = 1
+[ 2018-06-18 18:06:29 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/jquery-3.2.1.min.js --> File Created !!!
+[ 2018-06-18 18:06:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:29 ] file url = https://ipabox.store/landingpage/js/bootstrap.bundle.min.js
+[ 2018-06-18 18:06:29 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/bootstrap.bundle.min.js
+[ 2018-06-18 18:06:29 ] scrape_it = 1
+[ 2018-06-18 18:06:29 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/bootstrap.bundle.min.js --> File Created !!!
+[ 2018-06-18 18:06:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:29 ] file url = https://ipabox.store/landingpage/js/owl.carousel.min.js
+[ 2018-06-18 18:06:29 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/owl.carousel.min.js
+[ 2018-06-18 18:06:29 ] scrape_it = 1
+[ 2018-06-18 18:06:29 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/owl.carousel.min.js --> File Created !!!
+[ 2018-06-18 18:06:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:29 ] file url = https://ipabox.store/landingpage/js/script.js
+[ 2018-06-18 18:06:29 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/script.js
+[ 2018-06-18 18:06:29 ] scrape_it = 1
+[ 2018-06-18 18:06:29 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/landingpage/js/script.js --> File Created !!!
+[ 2018-06-18 18:06:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:29 ] /*******		End : Extract script files		**********/
+[ 2018-06-18 18:06:29 ] 
+[ 2018-06-18 18:06:29 ] 
+[ 2018-06-18 18:06:29 ] 
+[ 2018-06-18 18:06:29 ] /**************************************************************/
+[ 2018-06-18 18:06:29 ] /*******		Extract img files		**********/
+[ 2018-06-18 18:06:29 ] /**************************************************************/
+[ 2018-06-18 18:06:29 ] file url = https://ipabox.store/images/1.png
+[ 2018-06-18 18:06:29 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/images/1.png
+[ 2018-06-18 18:06:29 ] scrape_it = 1
+[ 2018-06-18 18:06:29 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/images/1.png --> File Created !!!
+[ 2018-06-18 18:06:29 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:29 ] file url = https://ipabox.store/img/ipabox.png
+[ 2018-06-18 18:06:29 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/img/ipabox.png
+[ 2018-06-18 18:06:29 ] scrape_it = 1
+[ 2018-06-18 18:06:30 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/img/ipabox.png --> File Created !!!
+[ 2018-06-18 18:06:30 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:30 ] /*******		End : Extract img files		**********/
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		Extract swf files		**********/
+[ 2018-06-18 18:06:30 ] /**************************************************************/
+[ 2018-06-18 18:06:30 ] /*******		End : Extract swf files		**********/
+[ 2018-06-18 18:06:30 ] 
+[ 2018-06-18 18:06:30 ] Original url : https://ipabox.store/ipabox.mobileconfig - 2/4
+[ 2018-06-18 18:06:30 ] Final url : https://ipabox.store/ipabox.mobileconfig( code=200 )
+[ 2018-06-18 18:06:30 ] Original url : https://apps.ipabox.store/ipalibrary/ - 3/4
+[ 2018-06-18 18:06:30 ] Final url : https://apps.ipabox.store/ipalibrary/( code=200 )
+[ 2018-06-18 18:06:30 ] Removed external links total ( 0 / 1 )
+[ 2018-06-18 18:06:30 ] Partial Size : 1332
+[ 2018-06-18 18:06:30 ] size_limit_KO : 10000
+[ 2018-06-18 18:06:30 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/index.html --> HTML File Created !!!
+[ 2018-06-18 18:06:30 ] ----------------------------------------------------------------------
+[ 2018-06-18 18:06:30 ] ( 1 / 3 )  Done - 0 error pages fixed
+[ 2018-06-18 18:06:30 ] ------------------------------------------------------------------
+[ 2018-06-18 18:06:30 ] File name found in to_create_arr
+[ 2018-06-18 18:06:30 ] #####################################################################################################
+[ 2018-06-18 18:06:30 ] ###############https://ipabox.store/ipabox.mobileconfig ( Scraping  of 2 / 3 )  - 0 error pages fixed###############
+[ 2018-06-18 18:06:30 ] ###############Local URL = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipabox-mobileconfig.html###############
+[ 2018-06-18 18:06:30 ] ###############Try number = 1###############
+[ 2018-06-18 18:06:30 ] #####################################################################################################
+[ 2018-06-18 18:06:30 ]  Main level =1
+[ 2018-06-18 18:06:31 ] Original encoding = 
+[ 2018-06-18 18:06:31 ] Final encoding = ASCII
+[ 2018-06-18 18:06:31 ] Language = N/A
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract pdf files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract pdf files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract css files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract css files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract xml files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract xml files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract txt files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract txt files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract script files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract script files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract img files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract img files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract swf files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract swf files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] Removed external links total ( 0 / 0 )
+[ 2018-06-18 18:06:31 ] Partial Size : 1412
+[ 2018-06-18 18:06:31 ] size_limit_KO : 10000
+[ 2018-06-18 18:06:31 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipabox-mobileconfig.html --> HTML File Created !!!
+[ 2018-06-18 18:06:31 ] ----------------------------------------------------------------------
+[ 2018-06-18 18:06:31 ] ( 2 / 3 )  Done - 0 error pages fixed
+[ 2018-06-18 18:06:31 ] ------------------------------------------------------------------
+[ 2018-06-18 18:06:31 ] File name found in to_create_arr
+[ 2018-06-18 18:06:31 ] #####################################################################################################
+[ 2018-06-18 18:06:31 ] ###############https://apps.ipabox.store/ipalibrary/ ( Scraping  of 3 / 3 )  - 0 error pages fixed###############
+[ 2018-06-18 18:06:31 ] ###############Local URL = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/apps_subdomain/ipalibrary.html###############
+[ 2018-06-18 18:06:31 ] ###############Try number = 1###############
+[ 2018-06-18 18:06:31 ] #####################################################################################################
+[ 2018-06-18 18:06:31 ]  Main level =1
+[ 2018-06-18 18:06:31 ] Original encoding = UTF-8
+[ 2018-06-18 18:06:31 ] Final encoding = UTF-8
+[ 2018-06-18 18:06:31 ] Language = N/A
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract pdf files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		End : Extract pdf files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract css files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/bootstrap.min.css
+[ 2018-06-18 18:06:31 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/bootstrap.min.css
+[ 2018-06-18 18:06:31 ] scrape_it = 1
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/before{content:
+[ 2018-06-18 18:06:31 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/apps_subdomain/before{content_.css
+[ 2018-06-18 18:06:31 ] scrape_it = 1
+[ 2018-06-18 18:06:31 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:31 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] 
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:31 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:31 ] /**************************************************************/
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regular.eot
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.eot
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:32 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.eot --> File Created !!!
+[ 2018-06-18 18:06:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regulard41d.eot?#iefix
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regulard41d.eot
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:32 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regulard41d.eot --> File Created !!!
+[ 2018-06-18 18:06:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regular.woff2
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.woff2
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:32 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.woff2 --> File Created !!!
+[ 2018-06-18 18:06:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regular.woff
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.woff
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:32 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.woff --> File Created !!!
+[ 2018-06-18 18:06:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regular.ttf
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.ttf
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:32 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.ttf --> File Created !!!
+[ 2018-06-18 18:06:32 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:32 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap2/css/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2018-06-18 18:06:32 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.svg
+[ 2018-06-18 18:06:32 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/ipalibrary/css/bootstrap2/css/../fonts/apps_subdomain/glyphicons-halflings-regular.svg --> File Created !!!
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap2/css/apps_subdomain/bootstrap.min.css --> File Created !!!
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/build/css/layout-a25ecd7900.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/build/css/apps_subdomain/layout-a25ecd7900.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:33 ] /**************************************************************/
+[ 2018-06-18 18:06:33 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:33 ] 
+[ 2018-06-18 18:06:33 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/build/css/apps_subdomain/layout-a25ecd7900.css --> File Created !!!
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/framework7.ios.min.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/framework7.ios.min.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/framework7.ios.colors.min.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/framework7.ios.colors.min.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/afeld.github.io/emoji-css/emoji.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/afeld.github.io/emoji-css/apps_subdomain/emoji.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/framework7-icons.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/framework7-icons.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:33 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:33 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/framework7.3dpanels.css
+[ 2018-06-18 18:06:33 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/framework7.3dpanels.css
+[ 2018-06-18 18:06:33 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/animate.min.css
+[ 2018-06-18 18:06:34 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/animate.min.css
+[ 2018-06-18 18:06:34 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] file url = https://apps.ipabox.store/ipalibrary/ipabox/css/animate.css
+[ 2018-06-18 18:06:34 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/ipabox/css/apps_subdomain/animate.css
+[ 2018-06-18 18:06:34 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] file url = https://apps.ipabox.store/ipalibrary/files/ios/css/bootstrap-desktop.css
+[ 2018-06-18 18:06:34 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/files/ios/css/apps_subdomain/bootstrap-desktop.css
+[ 2018-06-18 18:06:34 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] file url = https://apps.ipabox.store/ipalibrary/code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+[ 2018-06-18 18:06:34 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/code.ionicframework.com/ionicons/2.0.1/css/apps_subdomain/ionicons.min.css
+[ 2018-06-18 18:06:34 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] file url = https://apps.ipabox.store/ipalibrary/build/css/newIpaLibrary-965da84f2e.css
+[ 2018-06-18 18:06:34 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/build/css/apps_subdomain/newIpaLibrary-965da84f2e.css
+[ 2018-06-18 18:06:34 ] scrape_it = 1
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract css_from_import files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		End : Extract css_from_import files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/build/css/apps_subdomain/newIpaLibrary-965da84f2e.css --> File Created !!!
+[ 2018-06-18 18:06:34 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:34 ] /*******		End : Extract css files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract xml files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		End : Extract xml files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract txt files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		End : Extract txt files		**********/
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] 
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:34 ] /*******		Extract script files		**********/
+[ 2018-06-18 18:06:34 ] /**************************************************************/
+[ 2018-06-18 18:06:35 ] file url = http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] file url = https://apps.ipabox.store/ipalibrary/../ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/../ajax.googleapis.com/ajax/libs/jquery/3.1.0/apps_subdomain/jquery.min.js
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/../ajax.googleapis.com/ajax/libs/jquery/3.1.0/apps_subdomain/jquery.min.js --> File Created !!!
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] file url = https://apps.ipabox.store/ipalibrary/css/bootstrap3/js/bootstrap.min.js
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap3/js/apps_subdomain/bootstrap.min.js
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/css/bootstrap3/js/apps_subdomain/bootstrap.min.js --> File Created !!!
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] file url = https://apps.ipabox.store/ipalibrary/js/ipaLibraryScript.js
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/js/apps_subdomain/ipaLibraryScript.js
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/js/apps_subdomain/ipaLibraryScript.js --> File Created !!!
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] /*******		End : Extract script files		**********/
+[ 2018-06-18 18:06:35 ] 
+[ 2018-06-18 18:06:35 ] 
+[ 2018-06-18 18:06:35 ] 
+[ 2018-06-18 18:06:35 ] /**************************************************************/
+[ 2018-06-18 18:06:35 ] /*******		Extract img files		**********/
+[ 2018-06-18 18:06:35 ] /**************************************************************/
+[ 2018-06-18 18:06:35 ] file url = https://ipabox.store/img/ipabox.png
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/img/ipabox.png
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] file url = https://ipabox.store/apps/ipalibrary/top.png
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/apps/ipalibrary/top.png
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:35 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/apps/ipalibrary/top.png --> File Created !!!
+[ 2018-06-18 18:06:35 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:35 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/popcorn.png
+[ 2018-06-18 18:06:35 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/popcorn.png
+[ 2018-06-18 18:06:35 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/popcorn.png --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/instagram.jpg
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/instagram.jpg
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/instagram.jpg --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/twitter.jpg
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/twitter.jpg
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/twitter.jpg --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/pokego%2b%2b.png
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pokego_2b_2b.png
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pokego_2b_2b.png --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/spotify.png
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/spotify.png
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/spotify.png --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/youtube.png
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/youtube.png
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:36 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/youtube.png --> File Created !!!
+[ 2018-06-18 18:06:36 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:36 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/twitch.png
+[ 2018-06-18 18:06:36 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/twitch.png
+[ 2018-06-18 18:06:36 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/twitch.png --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/protube.png
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/protube.png
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/protube.png --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/scothman.png
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scothman.png
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scothman.png --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/snapchat.jpg
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/snapchat.jpg
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/snapchat.jpg --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/cercube-3.jpg
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cercube-3.jpg
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cercube-3.jpg --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/facebook.png
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/facebook.png
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/facebook.png --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/whatsapp.png
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/whatsapp.png
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:37 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/whatsapp.png --> File Created !!!
+[ 2018-06-18 18:06:37 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:37 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/youtube_music.png
+[ 2018-06-18 18:06:37 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/youtube_music.png
+[ 2018-06-18 18:06:37 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/youtube_music.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/pandora.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pandora.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pandora.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/jodel.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/jodel.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/jodel.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/deezer.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/deezer.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/deezer.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/napster.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/napster.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/napster.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mimo.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mimo.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mimo.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/hotspot.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/hotspot.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:38 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/hotspot.png --> File Created !!!
+[ 2018-06-18 18:06:38 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:38 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/plex.png
+[ 2018-06-18 18:06:38 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/plex.png
+[ 2018-06-18 18:06:38 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/plex.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/tweetbot.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tweetbot.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tweetbot.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/saavn.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/saavn.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/saavn.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/betternet.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/betternet.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/betternet.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/bobby.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobby.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobby.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/crunchyroll.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/crunchyroll.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:39 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/crunchyroll.png --> File Created !!!
+[ 2018-06-18 18:06:39 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:39 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/sleep.png
+[ 2018-06-18 18:06:39 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/sleep.png
+[ 2018-06-18 18:06:39 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/sleep.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/dns.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dns.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dns.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/wagold.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wagold.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wagold.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/bobbymusic.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobbymusic.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobbymusic.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/movie.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/movie.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/movie.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/ufc.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ufc.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:40 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ufc.png --> File Created !!!
+[ 2018-06-18 18:06:40 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:40 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/wnba.png
+[ 2018-06-18 18:06:40 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wnba.png
+[ 2018-06-18 18:06:40 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wnba.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/nba.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nba.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nba.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/tinder.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tinder.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tinder.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/moviehd.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/moviehd.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/moviehd.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/streamer.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/streamer.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/streamer.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/zing.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/zing.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:41 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/zing.png --> File Created !!!
+[ 2018-06-18 18:06:41 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:41 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/nflgame.png
+[ 2018-06-18 18:06:41 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nflgame.png
+[ 2018-06-18 18:06:41 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nflgame.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/vine.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/vine.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/vine.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/memorado.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/memorado.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/memorado.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/javan.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/javan.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/javan.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/vk.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/vk.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/vk.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/cinema.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cinema.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:42 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cinema.png --> File Created !!!
+[ 2018-06-18 18:06:42 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:42 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/runkeep.png
+[ 2018-06-18 18:06:42 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/runkeep.png
+[ 2018-06-18 18:06:42 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/runkeep.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/infuse.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/infuse.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/infuse.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/playerx.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/playerx.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/playerx.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/scan.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scan.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scan.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/gag.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gag.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gag.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/cartoon.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cartoon.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cartoon.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/slicktv.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/slicktv.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:43 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/slicktv.png --> File Created !!!
+[ 2018-06-18 18:06:43 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:43 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/kodi.png
+[ 2018-06-18 18:06:43 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi.png
+[ 2018-06-18 18:06:43 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/bobbym.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobbym.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bobbym.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/toon.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/toon.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/toon.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/channels.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/channels.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/channels.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/ytdl.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ytdl.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ytdl.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/junkie.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/junkie.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/junkie.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/flick.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/flick.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:44 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/flick.png --> File Created !!!
+[ 2018-06-18 18:06:44 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:44 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/redmusic.png
+[ 2018-06-18 18:06:44 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/redmusic.png
+[ 2018-06-18 18:06:44 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/redmusic.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/setbeat.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/setbeat.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/setbeat.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/halow.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/halow.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/halow.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mbox.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mbox.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mbox.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mymovies.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mymovies.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mymovies.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/123.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/123.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:45 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/123.png --> File Created !!!
+[ 2018-06-18 18:06:45 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:45 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/aerotv.png
+[ 2018-06-18 18:06:45 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/aerotv.png
+[ 2018-06-18 18:06:45 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/aerotv.png --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/wire.png
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wire.png
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/wire.png --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mjunkie.png
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mjunkie.png
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mjunkie.png --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/dcloud.png
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dcloud.png
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dcloud.png --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/musicbox.jpg
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/musicbox.jpg
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/musicbox.jpg --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/spawns.png
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/spawns.png
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:46 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/spawns.png --> File Created !!!
+[ 2018-06-18 18:06:46 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:46 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/cpro.jpg
+[ 2018-06-18 18:06:46 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cpro.jpg
+[ 2018-06-18 18:06:46 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/cpro.jpg --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/float.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/float.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/float.png --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/fortune.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/fortune.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/fortune.png --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/livefree.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/livefree.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/livefree.png --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/surge.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/surge.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/surge.png --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/streamtv.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/streamtv.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:47 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/streamtv.png --> File Created !!!
+[ 2018-06-18 18:06:47 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:47 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/atube.png
+[ 2018-06-18 18:06:47 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/atube.png
+[ 2018-06-18 18:06:47 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/atube.png --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/moviesapp.png
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/moviesapp.png
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/moviesapp.png --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/livebox.png
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/livebox.png
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/livebox.png --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/playhd.jpg
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/playhd.jpg
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/playhd.jpg --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/irec.png
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/irec.png
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/irec.png --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/pixlrec.jpg
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pixlrec.jpg
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pixlrec.jpg --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/screen-grab-beta.png
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/screen-grab-beta.png
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:48 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/screen-grab-beta.png --> File Created !!!
+[ 2018-06-18 18:06:48 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:48 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/airrec.png
+[ 2018-06-18 18:06:48 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/airrec.png
+[ 2018-06-18 18:06:48 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/airrec.png --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/airshou.png
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/airshou.png
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/airshou.png --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/coolpixel.png
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/coolpixel.png
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/coolpixel.png --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/drfone_screen_recorder.png
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/drfone_screen_recorder.png
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/drfone_screen_recorder.png --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/everycord.jpg
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/everycord.jpg
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/everycord.jpg --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/happycast.png
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/happycast.png
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/happycast.png --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/icapture.jpg
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/icapture.jpg
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:49 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/icapture.jpg --> File Created !!!
+[ 2018-06-18 18:06:49 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:49 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/bbrec.png
+[ 2018-06-18 18:06:49 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bbrec.png
+[ 2018-06-18 18:06:49 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/bbrec.png --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/scannerpro.jpg
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scannerpro.jpg
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/scannerpro.jpg --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/batterylife.png
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/batterylife.png
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/batterylife.png --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/filebrowser.jpg
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/filebrowser.jpg
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/filebrowser.jpg --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/fily.jpg
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/fily.jpg
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/fily.jpg --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/goodnight.png
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/goodnight.png
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/goodnight.png --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/idarkmode.png
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idarkmode.png
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:50 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idarkmode.png --> File Created !!!
+[ 2018-06-18 18:06:50 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:50 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/idevicewalls.jpg
+[ 2018-06-18 18:06:50 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idevicewalls.jpg
+[ 2018-06-18 18:06:50 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idevicewalls.jpg --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/barmagnet.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/barmagnet.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/barmagnet.png --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/floppycloud.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/floppycloud.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/floppycloud.png --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/kodi-krypton.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi-krypton.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi-krypton.png --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/kodi18.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi18.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/kodi18.png --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/minios.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/minios.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:51 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/minios.png --> File Created !!!
+[ 2018-06-18 18:06:51 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:51 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/tweetdeck.png
+[ 2018-06-18 18:06:51 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tweetdeck.png
+[ 2018-06-18 18:06:51 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/tweetdeck.png --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/xcleaner.png
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/xcleaner.png
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/xcleaner.png --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/itransmission.jpg
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/itransmission.jpg
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/itransmission.jpg --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/riam.png
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/riam.png
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/riam.png --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/dta.png
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dta.png
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/dta.png --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/emus.png
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/emus.png
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:52 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/emus.png --> File Created !!!
+[ 2018-06-18 18:06:52 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:52 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/filza.png
+[ 2018-06-18 18:06:52 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/filza.png
+[ 2018-06-18 18:06:52 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/filza.png --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/lux.png
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/lux.png
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/lux.png --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/issb.jpg
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/issb.jpg
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/issb.jpg --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mcpe.png
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mcpe.png
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mcpe.png --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/inds.png
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/inds.png
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/inds.png --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mame4ios.jpg
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mame4ios.jpg
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mame4ios.jpg --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/mesnemu.jpg
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mesnemu.jpg
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:53 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/mesnemu.jpg --> File Created !!!
+[ 2018-06-18 18:06:53 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:53 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/nds4ios.png
+[ 2018-06-18 18:06:53 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nds4ios.png
+[ 2018-06-18 18:06:53 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nds4ios.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/delta.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/delta.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/delta.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/gamepad.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gamepad.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gamepad.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/gba4ios.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gba4ios.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gba4ios.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/gearboy.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gearboy.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gearboy.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/gearsystem.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gearsystem.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:54 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/gearsystem.png --> File Created !!!
+[ 2018-06-18 18:06:54 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:54 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/happychick.png
+[ 2018-06-18 18:06:54 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/happychick.png
+[ 2018-06-18 18:06:54 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/happychick.png --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/idos.jpg
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idos.jpg
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idos.jpg --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/idos2.jpg
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idos2.jpg
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/idos2.jpg --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/nesemu.png
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nesemu.png
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/nesemu.png --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/play%21.png
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/play_21.png
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/play_21.png --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/ppsspp.jpg
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ppsspp.jpg
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/ppsspp.jpg --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/provenance.png
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/provenance.png
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:55 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/provenance.png --> File Created !!!
+[ 2018-06-18 18:06:55 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:55 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/snes4ios.jpg
+[ 2018-06-18 18:06:55 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/snes4ios.jpg
+[ 2018-06-18 18:06:55 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/snes4ios.jpg --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/primal.png
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/primal.png
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/primal.png --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/last-day-on-earth.jpg
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/last-day-on-earth.jpg
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/last-day-on-earth.jpg --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/clashof.png
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/clashof.png
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/clashof.png --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/saigon-jailbreak.png
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/saigon-jailbreak.png
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/saigon-jailbreak.png --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/yalu.png
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/yalu.png
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:56 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/yalu.png --> File Created !!!
+[ 2018-06-18 18:06:56 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:56 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/phoenix.png
+[ 2018-06-18 18:06:56 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/phoenix.png
+[ 2018-06-18 18:06:56 ] scrape_it = 1
+[ 2018-06-18 18:06:57 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/phoenix.png --> File Created !!!
+[ 2018-06-18 18:06:57 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:57 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/houdini.png
+[ 2018-06-18 18:06:57 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/houdini.png
+[ 2018-06-18 18:06:57 ] scrape_it = 1
+[ 2018-06-18 18:06:57 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/houdini.png --> File Created !!!
+[ 2018-06-18 18:06:57 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:57 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/empty-icon.png
+[ 2018-06-18 18:06:57 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/empty-icon.png
+[ 2018-06-18 18:06:57 ] scrape_it = 1
+[ 2018-06-18 18:06:57 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/empty-icon.png --> File Created !!!
+[ 2018-06-18 18:06:57 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:57 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/pangu.png
+[ 2018-06-18 18:06:57 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pangu.png
+[ 2018-06-18 18:06:57 ] scrape_it = 1
+[ 2018-06-18 18:06:57 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/pangu.png --> File Created !!!
+[ 2018-06-18 18:06:57 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:57 ] file url = https://apps.ipabox.store/ipalibrary/img/ipas/etason.png
+[ 2018-06-18 18:06:57 ] local_file_full_path = files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/etason.png
+[ 2018-06-18 18:06:57 ] scrape_it = 1
+[ 2018-06-18 18:06:57 ] files/live/ipabox.store_connormetry_icloud.com_jt2v23mf6jg/ipalibrary/img/ipas/apps_subdomain/etason.png --> File Created !!!
+[ 2018-06-18 18:06:57 ] -------------------------------------------------------------------------------------------
+[ 2018-06-18 18:06:57 ] /*******		End : Extract img files		**********/
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		Extract background_images files		**********/
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		End : Extract background_images files		**********/
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		Extract swf files		**********/
+[ 2018-06-18 18:06:57 ] /**************************************************************/
+[ 2018-06-18 18:06:57 ] /*******		End : Extract swf files		**********/
+[ 2018-06-18 18:06:57 ] 
+[ 2018-06-18 18:06:58 ] Original url : https://apps.ipabox.store/ipalibrary/index.html - 0/151
+[ 2018-06-18 18:06:58 ] Final url : https://apps.ipabox.store/ipalibrary/index.html( code=200 )
+[ 2018-06-18 18:06:58 ] Original url : https://ipabox.store/ipa.dsd.signed/popcorn.ipa - 1/151
